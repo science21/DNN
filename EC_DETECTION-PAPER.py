@@ -5,9 +5,6 @@ Created on Fri Jun 22 23:33:37 2018
 @author: Jianyong Wu, Ph.D
 '''
 #Set the directory of workspace
-import os
-path="D:\Dropbox\Data_analysis\Python\EC_TF"
-os.chdir(path)
 
 #Import nessary python libary
 import tensorflow as tf
